@@ -1,0 +1,5 @@
+Application (client) ID: 54c72096-fc82-499d-aa8f-a3988afde68b
+Object ID: 2939fdef-1d5a-4a6f-9c2b-068fe6a67b56
+Directory (tenant) ID: 1e21039e-82bd-4f10-a577-40dba2467481
+
+Client Secret ID: b99590b2-3fc8-4742-8486-97bab592966a
