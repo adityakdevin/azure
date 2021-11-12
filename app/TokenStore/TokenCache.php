@@ -23,7 +23,7 @@ class TokenCache {
         session()->forget('userTimeZone');
     }
 
-    ppublic function getAccessToken() {
+    public function getAccessToken() {
     // Check if tokens exist
     if (empty(session('accessToken')) ||
         empty(session('refreshToken')) ||
